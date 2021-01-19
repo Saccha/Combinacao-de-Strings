@@ -1,4 +1,4 @@
-# Combina-o-de-Strings
+# Combinacao-de-Strings
 
 Desafio:
 Crie um algoritmo que receba dois inputs que sejam strings e combine-as alternando as letras de cada string. 
